@@ -15,4 +15,5 @@ input, select, button {
 
 #result {
     font-weight: bold;
+    color: gray;
 }
