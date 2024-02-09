@@ -1,25 +1,21 @@
 {
     "name": "Meine PWA",
     "short_name": "PWA",
-    "start_url": "/",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#ffffff",
     "description": "Eine großartige Progressive Web-App!",
     "icons": [
         {
-            "src": "icon-48x48.png",
-            "sizes": "48x48",
+            "src": "https://cdn.glitch.me/248b0d2d-8ab9-4407-a073-136440ab3556/icon.png?v=1640879741758",
+            "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "icon-72x72.png",
-            "sizes": "72x72",
-            "type": "image/png"
-        },
-        {
-            "src": "icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
+            "src": "https://cdn.glitch.me/248b0d2d-8ab9-4407-a073-136440ab3556/icon.png?v=1640879741758",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
         }
     ]
 }
