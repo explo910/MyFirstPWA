@@ -1,7 +1,7 @@
 {
     "name": "Meine PWA",
     "short_name": "PWA",
-    "start_url": "./MyFirstPWA/",
+    "start_url": "https://explo910.github.io/MyFirstPWA/",
     "display": "standalone",
     "background_color": "#ffffff",
     "description": "Eine großartige Progressive Web-App!",
